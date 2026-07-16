@@ -1,0 +1,7 @@
+City,Temperature(C),Humidity(%),Weather_Condition,Wind_Speed (m/s),Date & Time
+Abuja,25.68,84,overcast clouds,2.67,2026-07-15 17:46:54
+Lagos,25.49,87,broken clouds,3.86,2026-07-15 17:48:48
+Kano,35.44,32,broken clouds,3.65,2026-07-15 17:50:26
+Lokoja,27.53,85,overcast clouds,1.27,2026-07-15 17:50:27
+Benue,27.6,76,overcast clouds,2.17,2026-07-15 17:50:27
+Oyo,24.56,91,overcast clouds,2.85,2026-07-15 17:50:28
